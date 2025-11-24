@@ -1,0 +1,11 @@
+[general]
+name=AdvancedMeasureTool
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.999
+description=Advanced measurement tool to store the measured track as line feature.
+version=1.6.8
+author= M. Reineccius-Schönke, ChatGPT, Claude
+email=
+about=Advanced measure tool with live measurement, not so good working escape-to-cancel and final WKT Start/Stop fields.
+category=Vector
+icon=icon.svg
